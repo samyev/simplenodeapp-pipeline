@@ -1,3 +1,3 @@
 # Simple Node App Pipeline
 
-Respositório de testes de pipelines com github actions.
+Neste repositório temos uma pipeline (github actions), que vai testar um simples aplicativo nodejs.
